@@ -12,8 +12,9 @@ To start the system on your environment, follow the steps below:
 To run performance tests, follow the steps below:
 1.	Create new users through the commands:
    
-    1.a.	chmod +x add_user.sh
-    1.b.	./add_user.sh
+    a.	chmod +x add_user.sh
+  	
+    b.	./add_user.sh
   	
 3.	Run the locustfile.py file through the command locust -f locustfile.py
 4.	Access Locust through the following URL: http://localhost:8089.
