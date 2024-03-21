@@ -1,4 +1,4 @@
-# Cloud_project
+# Cloud-Based File Storage System
 
 This project implements a cloud-based file storage system that allows users to upload, download and delete files while maintaining the privacy of their storage space. The system was developed using containerization with Docker and Docker-Compose.
 
